@@ -1,4 +1,4 @@
-# MatchAI — Intelligent Resume Investigator
+# Resume reducer — Intelligent Resume Investigator
 
 **ALG-AI-01** · Client-side AI-powered Resume & Job Matching System
 
@@ -72,7 +72,7 @@ No build step, no Node.js, no package manager required.
 ## How to Run
 
 1. Download or clone this repository.
-2. Open `matchai.html` in any modern browser (Chrome, Firefox, Edge, Safari).
+2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari).
 3. That’s it.
 
 ```bash
@@ -98,7 +98,7 @@ npx serve .
 
 ```
 .
-├── matchai.html          # Complete single-file application
+├── index.html          # Complete single-file application
 └── README.md             # This file
 ```
 
@@ -148,5 +148,5 @@ Built as a Principal Full-Stack React prototype for **ALG-AI-01**.
 
 ---
 
-**MatchAI** — Intelligent Resume Investigator  
+**Resume reducer** — Intelligent Resume Investigator  
 *Client-side · Instant · Explainable*
